@@ -1,5 +1,5 @@
 import test from 'tape';
-import Kata from '../src/kata';
+import { Kata } from '../src/kata';
 
 test('Kata greetings', function(t) {
   const kata = new Kata();

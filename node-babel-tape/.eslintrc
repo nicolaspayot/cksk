@@ -19,7 +19,7 @@
     "no-console": 0,
     "no-use-before-define": 0,
     "no-extra-strict": 0,
-    "space-after-keywords": 2,
+    "keyword-spacing": 2,
     "no-var": 1,
     "semi": [ 2, "always" ],
     "dot-notation": [ 2, { "allowKeywords": false } ]
